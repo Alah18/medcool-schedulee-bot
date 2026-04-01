@@ -1,0 +1,123 @@
+.bootstrap-select {
+  width: 100% !important;
+  /*IE9 and below*/
+}
+
+.bootstrap-select .dropdown-menu
+{
+	min-width:250px !important;
+	transform: translate3d(0px, 32px, 0px)!important;
+}
+
+.bootstrap-select .btn
+{
+color: #157fc4;
+    margin-bottom: 0;
+    font: normal 16px/40px "PT Sans", PTsans, Arial, sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    background: #dcecf6;
+    border: 0;
+    text-decoration: none;
+    white-space: nowrap;
+    height: 40px;
+    padding: 0 10px;
+    border-radius: 20px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-transition: all ease 0.3s;
+    transition: all ease 0.3s;
+}
+
+.date_edu1c {
+  width: 85%;
+  display: inline-block;
+  color: #157fc4;
+  margin-bottom: 0;
+  font: normal 16px/40px "PT Sans", PTsans, Arial, sans-serif;
+  text-align: center;
+  cursor: pointer;
+  background: transparent;
+  border: 0px solid transparent;
+  height: 40px;
+  padding: 0 10px;
+  
+  -webkit-transition: all ease 0.3s;
+  transition: all ease 0.3s;
+ 
+}
+.icondate
+{
+  width: 100%;
+  background: #dcecf6;
+  border-radius: 20px;
+}
+
+.m5
+{
+margin-top: 30px;
+}
+
+.date_edu1c_ico
+{
+  color: #157fc4;
+}
+
+#raspbtn
+{
+  background:  #157fc4 !important;
+  color: #fff;
+}
+
+.raspcontent .panel .panel-body .row
+{
+  border-bottom: 1px solid #ddd;
+    min-height: 60px;
+    line-height: 1.4;
+    padding-top: 5px;
+    margin-left: 3px;
+    margin-right: 3px;
+    font-size: 14px;
+}
+.btn{
+	font-size:14px!important;
+}
+
+.rasp th.text-center, .rasp td.text-center 
+{
+text-align: center;
+vertical-align:middle;
+}
+.rasp td
+{
+  vertical-align:middle !important;
+}
+
+.edu_today
+{
+  color: #157fc4 !important;
+  background-color: #dcecf6 !important;
+}
+.edu_today h2
+{
+  color: #157fc4 !important;
+}
+
+.bootstrap-select.btn-group .dropdown-toggle .filter-option
+{
+  text-align: center;
+}
+
+.bordergrey
+{
+  background-color: rgba(24, 24, 24, 0.1);
+}
+
+.borderwhite
+{
+  background-color: #f9f9f9;
+}
